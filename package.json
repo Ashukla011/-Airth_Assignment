@@ -1,0 +1,10 @@
+{
+  "name": "airth-job-queue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix apps/api && npm install --prefix apps/web",
+    "build": "npm run build --prefix apps/api && npm run build --prefix apps/web",
+    "test": "npm test --prefix apps/api -- --runInBand && npm test --prefix apps/web"
+  }
+}
