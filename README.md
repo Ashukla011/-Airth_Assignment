@@ -4,9 +4,9 @@ A small full-stack job queue manager built for the AIRTH React + NestJS intern a
 
 ## Live links
 
-- Frontend: `Add deployed frontend URL`
-- Backend API: `Add deployed backend URL`
-- API documentation: `Add deployed backend URL/docs`
+- Frontend: `https://web-b1ps1qo0x-avnish6.vercel.app`
+- Backend API: `https://airth-assignment-wo75.onrender.comL`
+
 
 ## Tech stack
 
